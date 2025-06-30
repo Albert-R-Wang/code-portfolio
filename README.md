@@ -1,6 +1,6 @@
 # Code Portfolio
 
-This repository is a curated collection of code and projects I developed during and beyond my PhD at the University of Wisconsin–Madison. It includes learning exercises, side projects, and research scripts not included in published work. This repository serves as a public portfolio of my coding experience and ongoing exploration of data science and analytical methods in cancer research.
+This repository is a curated collection of code and projects I developed during and beyond my PhD at the University of Wisconsin–Madison. It includes learning exercises, side projects, and research scripts not included in published work. This repository serves as a portfolio of my coding experience and ongoing exploration of data science and analytical methods in cancer research. It is actively maintained and updated as new work is completed.
 
 ## Contents
 
